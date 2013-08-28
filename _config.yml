@@ -15,7 +15,7 @@ tagline: Site Tagline
 author :
   name : leon
   email : peiliangtang@gmail.com
-  github : ice-leon
+  github : ice-age
   twitter : username
   feedburner : feedname
 
@@ -57,7 +57,7 @@ JB :
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #BASE_PATH : false
-  BASE_PATH : http://ice-leon.github.io/blog
+  BASE_PATH : http://ice-age.github.io/blog
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
